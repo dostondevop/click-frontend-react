@@ -1,0 +1,10 @@
+.not-found-container {
+    text-align: center;
+    margin: 4rem auto;
+  }
+  
+  .not-found-container h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
