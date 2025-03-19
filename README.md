@@ -22,7 +22,7 @@ Welcome to the Click Payment App (Frontend) – a modern, responsive, and intuit
 **Axios 🔄** – Efficient API handling for seamless backend integration.</br>
 **WebSockets 🌐** – Enabling real-time transaction updates and notifications.</br></br>
 
-<h3>🚀 Get Started!</h3></br>
+<h3>🚀 Get Started!</h3>
 💻 Clone the repo, explore the UI, and integrate it with the backend to build a complete Click-like</br>payment system! Whether you're a developer learning React & UI design or expanding your fintech</br>project, this frontend is the perfect playground.
 
 <h5>⭐ Love this project? Give it a STAR! 🌟</h5>
